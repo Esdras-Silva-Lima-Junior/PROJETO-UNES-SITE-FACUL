@@ -1,6 +1,6 @@
 # OBJETIVO
 
-Este é o segundo desafio em que devo criar outro site HTML sem o uso do CSS. No entanto, neste eu já implementei uma estrutura de pastas, links internos, imagens, entre outras funções HTML.
+Este é o primeiro desafio em que devo criar um site HTML sem o uso do CSS. No entanto, neste eu já implementei uma estrutura de pastas, links internos, imagens, entre outras funções HTML.
 
 ## IMAGENS
 ![Descrição da Imagem 1](img/Prints/Screenshot%202023-12-08%20003246.png)
